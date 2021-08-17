@@ -1,7 +1,7 @@
 {
-  "name": "xo",
+  "name": "partner-app",
   "version": "1.0.0",
-  "description": "Qualtrics and SMB integration",
+  "description": "Event Mesh sample queue consumpion",
   "main": "app.js",
   "dependencies": {
     "body-parser": "^1.19.0",
