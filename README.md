@@ -1,20 +1,19 @@
 [![License: Apache2](https://img.shields.io/badge/License-Apache2-green.svg)](https://opensource.org/licenses/Apache-2.0)
 
 
-# Integrates Qualtrics Survey Responses to SAP Business One
-[![Read full details here](https://blogs.sap.com/wp-content/uploads/2020/03/three_pieces.jpg)](https://blogs.sap.com/2020/03/19/customer-experience-live-in-rio/)
+# Dummy app to get calls from SAP Enterprise Message webhook
+
 
 ## Description  
-This application Integrates Qualtrics Survey Responses to SAP Business One.
+This application receives requests from Enterprise Message Webhook
 
 ## Requirements
-* Qualtrics Tenant with access to API Token
-* SAP Business One with access to the Service Layer
+* 
 
 ## Deployment
 Clone or download this repository:
 ```bash
-git clone https://github.com/B1SA/b1-xo.git
+git clone https://github.com/mendesthi/em-webhook.git
 ```
 From its root folder, open the terminal, login to your SCP account and push it.
 ```bash
